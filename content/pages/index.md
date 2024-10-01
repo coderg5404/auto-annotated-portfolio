@@ -151,4 +151,16 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: >
+      I am a developer and programmer, born and raised in Telangana, India
+      graduated with Masters in Computer Science from University of North Texas,
+      USA. I've Completed my Bachelor's from GNITS, India in the stream of ECE
+      and later wored for Accenture as Application Developer Associate. I'm up
+      for challenges which pushes me into exploration to learn new things. 
+
+
+      I believe in practical learning, which drives me to relate my skills to
+      real-time situations, enabling me to gain hands-on experience. My most
+      recent projects were related to UNT Search Engine where I worked on
+      building serach engine and designing it. 
 ---
