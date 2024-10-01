@@ -127,7 +127,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: ContactSection
-    colors: colors-b
+    colors: colors-a
     backgroundSize: full
     title: ABOUT ME
     styles:
