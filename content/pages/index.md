@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: I’m Shreyaa gAJULA
     subtitle: >-
-      A Tech Enthusiast pursuing my Masters in Computer Science from Univeristy
-      of North Texas, USA.
+      A Tech Enthusiast graduated with Masters in Computer Science from
+      Univeristy of North Texas, USA.
     styles:
       self:
         height: auto
