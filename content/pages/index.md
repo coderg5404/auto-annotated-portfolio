@@ -174,7 +174,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Java_programming_language_logo.svg.png
         altText: Image one
         caption: Image one caption
         elementId: ''
