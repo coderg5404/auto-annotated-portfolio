@@ -184,14 +184,14 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/c++.jpg
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/Python.svg.png
         altText: Image four
         caption: Image four caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/c++.jpg
+        altText: Image three
+        caption: Image three caption
         elementId: ''
     colors: colors-f
     spacing: 16
