@@ -134,13 +134,6 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: ''
-          label: ''
-          hideLabel: true
-          placeholder: ''
-          isRequired: false
-          width: full
-          type: TextFormControl
         - type: TextareaFormControl
           name: ''
           label: ''
