@@ -164,10 +164,4 @@ sections:
       recent projects were related to UNT Search Engine where I worked on
       building serach engine and designing it. 
     elementId: slug
-    media:
-      type: ImageBlock
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      url: /images/c.png
 ---
