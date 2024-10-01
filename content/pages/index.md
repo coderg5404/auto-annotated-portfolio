@@ -148,13 +148,6 @@ sections:
           placeholder: Type your message here
           width: full
           isRequired: false
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
         - name: updatesConsent
           label: Sign me up to recieve updates
           isRequired: false
