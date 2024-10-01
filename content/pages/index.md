@@ -166,7 +166,6 @@ sections:
     elementId: slug
     media:
       type: ImageBlock
-      url: /images/Java_programming_language_logo.svg.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
