@@ -189,7 +189,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/Python.svg.png
         altText: Image four
         caption: Image four caption
         elementId: ''
