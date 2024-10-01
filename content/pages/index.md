@@ -166,7 +166,7 @@ sections:
     elementId: slug
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/Java_programming_language_logo.svg.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
