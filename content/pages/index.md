@@ -142,7 +142,7 @@ sections:
           width: full
           type: TextFormControl
         - type: TextareaFormControl
-          name: message
+          name: ''
           label: ''
           hideLabel: false
           placeholder: Type your message here
