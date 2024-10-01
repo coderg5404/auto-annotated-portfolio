@@ -169,5 +169,5 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-      url: /images/c.png
+      url: /images/Java_programming_language_logo.svg.png
 ---
