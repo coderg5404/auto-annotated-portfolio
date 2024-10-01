@@ -164,4 +164,10 @@ sections:
       recent projects were related to UNT Search Engine where I worked on
       building serach engine and designing it. 
     elementId: slug
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
 ---
