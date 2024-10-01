@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: ''
+title: SHREYAA GAJULA
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
