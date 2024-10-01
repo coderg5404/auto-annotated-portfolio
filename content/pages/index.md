@@ -136,7 +136,7 @@ sections:
       fields:
         - name: firstName
           label: First Name
-          hideLabel: false
+          hideLabel: true
           placeholder: First Name
           isRequired: true
           width: 1/2
