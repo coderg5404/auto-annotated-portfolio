@@ -134,7 +134,7 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: lastName
+        - name: ''
           label: Last Name
           hideLabel: true
           placeholder: Last Name
