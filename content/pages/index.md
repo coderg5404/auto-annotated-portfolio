@@ -191,7 +191,7 @@ sections:
         url: /images/c.png
         altText: Image two
         caption: Image two caption
-        elementId: ''
+        elementId: Image
       - type: ImageBlock
         url: /images/Python.svg.png
         altText: Image four
