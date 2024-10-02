@@ -184,7 +184,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/java.png
-        altText: Image one
+        altText: ''
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
