@@ -126,12 +126,6 @@ sections:
     type: HeroSection
     actions: []
     text: ''
-    media:
-      type: ImageBlock
-      url: /images/work.png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: ContactSection
     colors: colors-b
     backgroundSize: full
