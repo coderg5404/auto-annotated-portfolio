@@ -202,7 +202,7 @@ sections:
         altText: Image three
         caption: Image three caption
         elementId: ''
-    colors: colors-f
+    colors: colors-b
     spacing: 0
     columns: 4
     aspectRatio: '1:1'
