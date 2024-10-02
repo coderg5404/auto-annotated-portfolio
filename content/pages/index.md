@@ -125,7 +125,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: ''
+    text: |
+      ![](/images/work.png)
   - type: ContactSection
     colors: colors-b
     backgroundSize: full
