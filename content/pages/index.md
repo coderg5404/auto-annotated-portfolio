@@ -240,4 +240,5 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+addTitleSuffix: true
 ---
