@@ -205,7 +205,7 @@ sections:
     colors: colors-b
     spacing: 0
     columns: 4
-    aspectRatio: '1:1'
+    aspectRatio: ''
     showCaption: false
     enableHover: true
     elementId: ''
