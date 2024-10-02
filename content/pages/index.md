@@ -188,15 +188,15 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/c.png
-        altText: Image two
-        caption: Image two caption
-        elementId: Image
-      - type: ImageBlock
         url: /images/Python.svg.png
         altText: Image four
         caption: Image four caption
         elementId: ''
+      - type: ImageBlock
+        url: /images/c.png
+        altText: Image two
+        caption: Image two caption
+        elementId: Image
       - type: ImageBlock
         url: /images/c++.jpg
         altText: Image three
