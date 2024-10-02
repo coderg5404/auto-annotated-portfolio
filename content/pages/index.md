@@ -219,6 +219,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: flex-start
+        borderStyle: solid
       title:
         textAlign: center
       subtitle:
