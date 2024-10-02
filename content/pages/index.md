@@ -208,7 +208,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/sql.png
+        url: /images/msqk.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
