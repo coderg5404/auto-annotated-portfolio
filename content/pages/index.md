@@ -216,7 +216,7 @@ sections:
     spacing: 0
     columns: 5
     aspectRatio: '1:1'
-    showCaption: false
+    showCaption: true
     enableHover: true
     elementId: ''
     styles:
