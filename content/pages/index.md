@@ -180,7 +180,7 @@ sections:
       believe in practical learning, which drives me to relate my skills to
       real-time situations, enabling me to gain hands-on experience. My most
       recent projects were related to UNT Search Engine where I worked on
-      building serach engine and designing it.
+      building search algorithm for the website and designing it.
     images:
       - type: ImageBlock
         url: /images/java.png
