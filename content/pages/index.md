@@ -207,11 +207,6 @@ sections:
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
-      - type: ImageBlock
-        url: /images/mysql.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
     colors: colors-b
     spacing: 0
     columns: 4
