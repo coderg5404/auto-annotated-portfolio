@@ -48,48 +48,6 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-  - elementId: ''
-    colors: colors-b
-    backgroundSize: full
-    title: I’m Shreyaa gAJULA
-    subtitle: >-
-      A Tech Enthusiast graduated with Masters in Computer Science from
-      Univeristy of North Texas, USA.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-        borderRadius: xx-small
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-    text: ''
-    media:
-      type: ImageBlock
-      url: /images/work.png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -132,6 +90,48 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+  - elementId: ''
+    colors: colors-b
+    backgroundSize: full
+    title: I’m Shreyaa gAJULA
+    subtitle: >-
+      A Tech Enthusiast graduated with Masters in Computer Science from
+      Univeristy of North Texas, USA.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+        borderRadius: xx-small
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
+    text: ''
+    media:
+      type: ImageBlock
+      url: /images/work.png
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: ContactSection
     colors: colors-b
     backgroundSize: full
