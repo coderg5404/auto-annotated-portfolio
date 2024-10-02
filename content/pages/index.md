@@ -170,7 +170,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - type: MediaGallerySection
-    title: Gallery
+    title: About Me
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
