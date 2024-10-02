@@ -197,11 +197,6 @@ sections:
         altText: Image two
         caption: Image two caption
         elementId: Image
-      - type: ImageBlock
-        url: /images/c++.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
     colors: colors-b
     spacing: 0
     columns: 4
