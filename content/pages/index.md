@@ -125,12 +125,10 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
+    text: |+
       <div style="text-align: center">![](/images/work.png)</div>
 
-
-      <div style="text-align: center"><i style='font-size:24px'
-      class='far'></i> GET IN TOUCH</div>
+      <div style="text-align: center">GET IN TOUCH</div>
 
   - type: ContactSection
     colors: colors-b
