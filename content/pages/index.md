@@ -185,7 +185,7 @@ sections:
       - type: ImageBlock
         url: /images/java.png
         altText: ''
-        caption: Image one caption
+        caption: JAVA
         elementId: ''
       - type: ImageBlock
         url: /images/Python.svg.png
