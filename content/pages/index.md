@@ -188,11 +188,6 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/c.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
         url: /images/Python.svg.png
         altText: Image four
         caption: Image four caption
