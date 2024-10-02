@@ -193,7 +193,7 @@ sections:
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
-        url: /images/c++.jpg
+        url: /images/c++2.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
